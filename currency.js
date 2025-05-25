@@ -1,4 +1,4 @@
-class Currency {
+class Currency{
   constructor() {
     this.url =
       "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_8K06s9qGoE3hRC7wCvpJ6phcRDX7bvuNgA5jg1P3&base_currency=";
